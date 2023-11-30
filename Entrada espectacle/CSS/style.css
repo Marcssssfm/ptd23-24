@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+}
+
+main {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1 {
+    text-align: left;
+    /* margin-bottom: 50px; */
+    color: red;
+}
+
+/* th {
+    column-span:all;
+    text-align: center;
+    width: 400px;
+ } */
+
+ h2,
+
+td, tr{
+    margin-left: 31%;
+    width: 20%;
+    
+}
+
+td {
+    text-align:center
+}
+
+.tabla1 {
+background-color: gray;
+font-weight: bolder;
+}
+
+.tabla2 {
+    background-color: gray;
+}
+
+
+.tabla2 td {
+    text-align: left;
+    width: 10px;
+    background-color: gray;
+}
+
+.tabla1 .col1 {
+
+}
