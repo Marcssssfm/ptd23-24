@@ -1,0 +1,59 @@
+p{
+    text-align: center;
+    color: gray;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+img{
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+}
+
+div{
+    width: 40%;
+    text-align: center;
+    margin-left: 23%;
+}
+
+header, main{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
+h3{
+    color: white;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.p2,.p3,.p4{
+    background-color: red;
+    color: white;
+    border: solid 2px yellow; 
+    margin-left: 30%;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.fotos{
+    margin-left: 29%;
+}
+  
